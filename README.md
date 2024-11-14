@@ -35,11 +35,11 @@ The images used in this project were sourced from:
 
 * Rocío Lión
 * Micaela De Mori
-* Karen Lima @karenLS23 :elf:
+* Karen Lima [@karenLS23](https://github.com/karenLS3/) :elf:
 
 ### Advisor
 
-* Daniel Herrera (Neuroscience Lab)
+* Daniel Herrera (Neuroscience Lab) [@dherrera1911](https://github.com/dherrera1911)
 
 
 # References
