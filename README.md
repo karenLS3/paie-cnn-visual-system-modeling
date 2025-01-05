@@ -16,7 +16,7 @@ We use a pre-trained CNN on an image classification task to record its neural ac
 
 ## Project Overview
 
-The complete investigation can be found in the following notebook: [CNN_PAIE_Project.ipynb](src/CNN_PAIE_Project.ipynb).
+The complete investigation can be found in the following notebook: [CNN_PAIE_Project.ipynb](src/CNN_PAIE_Project.ipynb). Versión en español [CNN_PAIE_Project_ES.ipynb](src/CNN_PAIE_Project_ES.ipynb)
 
 ### Image Sources
 
